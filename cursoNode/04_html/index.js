@@ -1,6 +1,6 @@
 const express = require('express')
 //instanciar uma variavel
-//const pq n pode mudar dps
+//const pq n pode mudar dp
 const app = express()
 
 // '/' rota principal, cria funcao de call back
